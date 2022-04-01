@@ -1,9 +1,29 @@
 <div align="center">
  
-<h1><b>Welcome to my GitHub Dashboard!
+ <h1><b>Welcome to my GitHub Dashboard!</b></h1>
  
  </div>
+ 
+ <div align ="center">
+ 
+  
+  <h3> Hey, I'm Marconi 👋 </h3>
+ 
+   <li>
+    
+   <h4>💼 In search of professional growth in the area of Technology of Information in order to assume a new role with space forin the company, led by the development of
+   same. </h4>
+    <h4>🖥 I'm learning Python and continuing to learn more in the T.I field.</h4>
+    <h4>🎮 Fun fact: I love games! 💙</h4>
+    
+   <li>
+ 
 
+ 
+ </div>
+ 
+  ##
+  
  <div align="center">
   <a href="https://github.com/MarconiCop">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarconiCop&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
