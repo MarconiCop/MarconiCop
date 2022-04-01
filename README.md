@@ -1,4 +1,8 @@
-## Welcome to my GitHub Dashboard!
+<div align="center">
+ 
+<h1><b>Welcome to my GitHub Dashboard!
+ 
+ </div>
 
  <div align="center">
   <a href="https://github.com/MarconiCop">
