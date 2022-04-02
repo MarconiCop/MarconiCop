@@ -8,11 +8,13 @@
  
   
   <h3> Hey, I'm Marconi 👋 </h3>
+ <img src="https://cdn-icons-png.flaticon.com/512/1622/1622054.png" align="right" height="90px" width="90px">
  
  <ul>
   <li> 💼 In search of professional growth in the area of Technology of Information in order to assume a new role with space forin the company, led by the development             of same.</li> <br>
   <li> 🖥 I'm learning Python and continuing to learn more in the T.I field.</li> <br>
   <li> 🎮 Fun fact: I love games! 💙</li> 
+  
  </ul>
    
  
